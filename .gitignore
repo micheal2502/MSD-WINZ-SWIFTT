@@ -1,0 +1,13 @@
+# Java
+backend/target/
+backend/.mvn/
+
+# Node
+admin-portal/node_modules/
+admin-portal/build/
+user-portal/node_modules/
+user-portal/build/
+
+# Environment files
+.env
+*.env.local
